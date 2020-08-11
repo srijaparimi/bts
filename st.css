@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h2,
+h3,
+li,
+h4 {
+    font-family: 'Sriracha', cursive;
+    color: #BE33FF;
+}
+
+body {
+    background-image: url("c/14.jpg");
+
+}
+
+.outercontainer {
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+h2 {
+    font-size: 3em;
+    font-weight: 700;
+    color: #FF334C;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    font-size: 1.3em;
+    font-weight: 400;
+    text-align: justify;
+    list-style: none;
+}
+
+.innercontainer {
+    margin-left: 400px;
+
+}
+
+h3 {
+    color: #DA9711;
+    font-size: 1.4em;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    background-color: yellow;
+    padding: 0 9px;
+    border-radius: 30px;
+    border-color: transparent;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+    font-size: 1.6em;
+    font-family: 'Sriracha', cursive;
+}
+
+h4 {
+    margin: 0;
+    padding: 0;
+    font-size: 1.4em;
+}
+
+.gify {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.f {
+    text-align: center;
+}
